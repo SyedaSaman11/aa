@@ -1,0 +1,23 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "aaaaa",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedaSaman11/aa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedaSaman11/aa/issues"
+  },
+  "homepage": "https://github.com/SyedaSaman11/aa#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
